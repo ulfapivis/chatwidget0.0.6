@@ -214,6 +214,7 @@ header h2 {
   padding: 28px 5px 5px;
   text-align: center;
   height: 50px;
+  margin: auto;
 }
 
 .footer a {
